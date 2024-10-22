@@ -10,6 +10,15 @@ This project is focused on performing sentiment analysis on Twitter data related
 ## Project Overview
 This project uses machine learning techniques to analyze the sentiment of tweets towards specific entities like companies, products, and more. Various models are implemented including Naive Bayes, Logistic Regression, Random Forest, Decision Tree, and Artificial Neural Networks. The project also involves clustering using K-Means++ for exploratory data insights.
 
+## Tools Used 
+- Pandas
+- Sklearn
+- NLTK
+- Numpy
+- Keras
+- Matplotlib
+- Wordcloud
+
 ## Dataset
 The dataset consists of two CSV files:
 1. `twitter_training.csv`: Used for training the models.
