@@ -38,3 +38,6 @@ To run this project locally, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
+
+## Documentation 
+![image](https://github.com/user-attachments/assets/aa3a70d0-927d-4a31-ad9d-06f27f9cef89)
